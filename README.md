@@ -8,6 +8,7 @@
   <a href="mailto:hafizbilalakbar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-hafizbilalakbar.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/hafizbilalakbar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-hafizbilalakbar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hafizbilalakbar" target="_blank"><img src="https://img.shields.io/badge/GitHub-hafizbilalakbar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.hackerrank.com/profile/hafizbilalakbar" target="_blank"><img src="https://img.shields.io/badge/HackerRank-hafizbilalakbar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <img src="https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-green?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -222,6 +223,176 @@ State-of-the-art hybrid PLM + Knowledge Graph Embedding model for **drug–disea
 
 ---
 
+## 🏆 Certifications
+
+### HackerRank Certifications
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+  <!-- Problem Solving (Intermediate) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">Problem Solving (Intermediate)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> 7951A01AA45D</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/7951a01aa45d" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- Node.js (Intermediate) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">Node.js (Intermediate)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> 19641DE39663</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/19641de39663" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- Python (Basic) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">Python (Basic)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> A0FCAD8BB736</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/a0fcad8bb736" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- CSS (Basic) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">CSS (Basic)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> E57D0E35683B</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/e57d0e35683b" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- Angular (Intermediate) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">Angular (Intermediate)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> E615FD4F54B7</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/e615fd4f54b7" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- Frontend Developer (React) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">Frontend Developer (React)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> EB0D9ED24D29</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/eb0d9ed24d29" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- JavaScript (Intermediate) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">JavaScript (Intermediate)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> A7952C9B554B</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/a7952c9b554b" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+  <!-- JavaScript (Basic) -->
+  <div style="
+    width:280px;
+    border:1px solid #30363d;
+    border-radius:14px;
+    padding:18px;
+    background-color:#0d1117;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:all 0.3s ease;
+  ">
+    <h3 align="center">JavaScript (Basic)</h3>
+    <p align="center"><strong>Issued:</strong> May 2026</p>
+    <p align="center"><strong>Credential ID:</strong> A375D9633514</p>
+    <p align="center">
+      <a href="https://www.hackerrank.com/certificates/a375d9633514" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+        View Certificate
+      </a>
+    </p>
+  </div>
+
+</div>
+
+---
+
 ## 🌐 Languages
 
 | Language | Proficiency  |
@@ -257,11 +428,12 @@ I'm open to exciting **remote opportunities** in full-stack development, AI/ML e
 
 | Platform    | Link                                                                           |
 | ----------- | ------------------------------------------------------------------------------ |
-| 📧 Email    | [hafizbilalakbar.dev@gmail.com](mailto:hafizbilalakbar.dev@gmail.com)          |
-| 💼 LinkedIn | [linkedin.com/in/hafizbilalakbar](https://www.linkedin.com/in/hafizbilalakbar) |
-| 🐙 GitHub   | [github.com/hafizbilalakbar](https://github.com/hafizbilalakbar)               |
-| 📞 Phone    | [+92 310 318 0385](tel:+923103180385)                                          |
-| 📍 Location | Faisalabad, Punjab, Pakistan                                                   |
+| 📧 Email      | [hafizbilalakbar.dev@gmail.com](mailto:hafizbilalakbar.dev@gmail.com)                        |
+| 💼 LinkedIn   | [linkedin.com/in/hafizbilalakbar](https://www.linkedin.com/in/hafizbilalakbar)               |
+| 🐙 GitHub     | [github.com/hafizbilalakbar](https://github.com/hafizbilalakbar)                             |
+| 🏆 HackerRank | [hackerrank.com/profile/hafizbilalakbar](https://www.hackerrank.com/profile/hafizbilalakbar) |
+| 📞 Phone      | [+92 310 318 0385](tel:+923103180385)                                                        |
+| 📍 Location   | Faisalabad, Punjab, Pakistan                                                                 |
 
 ---
 
