@@ -227,169 +227,97 @@ State-of-the-art hybrid PLM + Knowledge Graph Embedding model for **drug–disea
 
 ### HackerRank Certifications
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-
-  <!-- Problem Solving (Intermediate) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">Problem Solving (Intermediate)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> 7951A01AA45D</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/7951a01aa45d" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- Node.js (Intermediate) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">Node.js (Intermediate)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> 19641DE39663</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/19641de39663" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- Python (Basic) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">Python (Basic)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> A0FCAD8BB736</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/a0fcad8bb736" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- CSS (Basic) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">CSS (Basic)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> E57D0E35683B</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/e57d0e35683b" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- Angular (Intermediate) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">Angular (Intermediate)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> E615FD4F54B7</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/e615fd4f54b7" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- Frontend Developer (React) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">Frontend Developer (React)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> EB0D9ED24D29</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/eb0d9ed24d29" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- JavaScript (Intermediate) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">JavaScript (Intermediate)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> A7952C9B554B</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/a7952c9b554b" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-  <!-- JavaScript (Basic) -->
-  <div style="
-    width:280px;
-    border:1px solid #30363d;
-    border-radius:14px;
-    padding:18px;
-    background-color:#0d1117;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
-    transition:all 0.3s ease;
-  ">
-    <h3 align="center">JavaScript (Basic)</h3>
-    <p align="center"><strong>Issued:</strong> May 2026</p>
-    <p align="center"><strong>Credential ID:</strong> A375D9633514</p>
-    <p align="center">
-      <a href="https://www.hackerrank.com/certificates/a375d9633514" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600;">
-        View Certificate
-      </a>
-    </p>
-  </div>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Problem Solving (Intermediate)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> 7951A01AA45D</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/7951a01aa45d" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Node.js (Intermediate)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> 19641DE39663</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/19641de39663" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Python (Basic)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> A0FCAD8BB736</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/a0fcad8bb736" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>CSS (Basic)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> E57D0E35683B</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/e57d0e35683b" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Angular (Intermediate)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> E615FD4F54B7</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/e615fd4f54b7" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Frontend Developer (React)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> EB0D9ED24D29</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/eb0d9ed24d29" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>JavaScript (Intermediate)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> A7952C9B554B</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/a7952c9b554b" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>JavaScript (Basic)</h3>
+      <p><strong>Issued:</strong> May 2026</p>
+      <p><strong>Credential ID:</strong> A375D9633514</p>
+      <p>
+        <a href="https://www.hackerrank.com/certificates/a375d9633514" target="_blank">
+          View Certificate
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <!-- Empty space to balance the 3x3 layout visually -->
+    </td>
+  </tr>
+</table>
 
 ---
 
